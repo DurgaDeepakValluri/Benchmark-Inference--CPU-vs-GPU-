@@ -18,5 +18,4 @@ This repository contains a script to benchmark the inference performance of a pr
 - GPU Inference Time: Y.YY seconds
 - Speedup: Z.ZZx
 
-
-   
+![Benchmark Inference](Figure_1.png)
